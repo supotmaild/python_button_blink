@@ -34,3 +34,6 @@
 - b = blink()
 - b.start(win,Button)            # win is your Tk root
 - # Button is your list of Button # redraw fuction check b.bnumber() for return press button value 
+
+- If you are in Thailand call me for detail 097-162-0960
+- email : therithwarich@gmail.com
