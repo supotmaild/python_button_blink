@@ -1,6 +1,7 @@
 # python_button_blink 24 Jul 2015
 
 - The first list of Python Button that can call function with parameters without any macro
+- THAILAND Proud button_blink.py 1.0 (We are the first to do, Thanks Python)
 - Button list in Python can't call function with parameters even though lambda:
 - Example Button[i]=Tkinter.Button(frame, width=4, height=1, text=str(i), command=lambda:callback(i))
 - We can not use callback(i) in this sentence , We can use only callback(1)
