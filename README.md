@@ -17,3 +17,19 @@
 - Button.append(Tkinter.Button(frame,width=4, height=1, text=str(i), command=callback))
 - and callback can use stop_number global variable to check all of parameters
 - text=parameters[stop_number][1]	
+
+- New version 1.2.0
+- 
+- separate module to import
+- example.py use import b_blink
+
+- How to use
+- 
+- Button=[]
+- for i in range(4):
+-    	Button.append(tk.Button(frame1, width=4, height=1, text=str(i), command=redraw))
+-   	Button[i].place(x=20+(i*100), y=260)
+- from b_blink import blink
+- b = blink()
+- b.start(win,Button)            # win is your Tk root
+- # Button is your list of Button # redraw fuction check b.bnumber() for return press button value 
