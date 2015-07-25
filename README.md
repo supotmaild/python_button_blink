@@ -1,3 +1,11 @@
+# I am stupid
+
+- button_blink is not the only way to list Python Button with call fuction parameters
+- The easy way is button_exec.py!!
+- 	exec('Button[i]=tk.Button(canvas,width=4, height=1, text=str(i), command=lambda:redraw('+str(i)+'))')
+- by something like this can Python tk button in list and call function parameters
+
+
 # python_button_blink 24 Jul 2015
 
 - button_blink.py
@@ -34,6 +42,6 @@
 - b = blink()
 - b.start(win,Button)            # win is your Tk root
 - # Button is your list of Button # redraw fuction check b.bnumber() for return press button value 
-
+- contact:
 - If you are in Thailand call me for detail 097-162-0960
 - email : therithwarich@gmail.com
