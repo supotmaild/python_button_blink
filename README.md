@@ -1,4 +1,4 @@
-# I am stupid
+# I am stupid 25 Jul 2015
 
 - button_blink is not the only way to list Python Button with call fuction parameters
 - The easy way is button_exec.py!!
